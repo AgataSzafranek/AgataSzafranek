@@ -12,7 +12,7 @@ Additionally, I have actively participated in the Dare IT challenge and have fou
 
 COURSES / CERTIFICATES
 
-- Dare IT - Challenge
+- Dare IT - Challenge 
 - UDEMY - ISTQB - [![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/certificate/UC-8a96932b-16fc-4cc9-98f3-807084c0d227/)
 - SQL w 120 minut - kursysql.pl
 - The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert - [![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert) IN PROGRESS
@@ -21,7 +21,7 @@ COURSES / CERTIFICATES
 TECH TOOLS
 
 - Slack
-- GitHub
+- GitHub [Challenge](https://github.com/AgataSzafranek/challenge_portfolio_agata)
 - SQL - Xampp 
 - DevTools
 
