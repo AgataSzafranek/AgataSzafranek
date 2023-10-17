@@ -8,14 +8,14 @@ that this is the right path for me. I have acquired a diverse set of skills that
 Notably, I have acquired a keen attention to detail, particularly in the exploration of new software and understanding its functionality. 
 Additionally, I have actively participated in the Dare IT challenge and have found immense enjoyment in tackling each challenge presented to me.
 
-[![LinkedIn] https://www.linkedin.com/in/agata-szafranek-b5a347b5/
+[![https://www.linkedin.com/in/agata-szafranek-b5a347b5/] 
 
 COURSES / CERTIFICATES
 
 - Dare IT - Challenge [![DareIT]
-- UDEMY - ISTQB - [![Udemy] https://www.udemy.com/certificate/UC-8a96932b-16fc-4cc9-98f3-807084c0d227/
+- UDEMY - ISTQB - [![https://www.udemy.com/certificate/UC-8a96932b-16fc-4cc9-98f3-807084c0d227/] 
 - SQL w 120 minut - kursysql.pl
-- The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert - [![Udemy] https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/ (in progress)
+- The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert - [![[Udemy](https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert)] / (in progress)
 - ISTQB FL - TBC
 
 TECH TOOLS
@@ -37,10 +37,11 @@ SOFT SKILLS
 
 PROJECTS
 
-- Test Cases
-- Test Report
-- Bug Reports
-- SQL
+- Test Cases - https://docs.google.com/spreadsheets/d/17HuADjw36U1ICTBMWDfxVv165mc_FXMnMt0lwNPjtcM/edit?usp=sharing
+- Bug Report - https://docs.google.com/spreadsheets/d/1V-j4m7qnDQPoXOQUMJPWNt5E0gfwhbChv986K_DqNqI/edit?usp=sharing
+- Test Report - https://docs.google.com/spreadsheets/d/1MX4lhIQYoEQBU28HplEeVPpBvlNkJuf0ayz3C1pYLn0/edit?usp=sharing
+- Exploratory testing & bug report - https://docs.google.com/spreadsheets/d/17oFdvnihQzpErrf5bHvCi4vVh-WnUsM1zBG2FBJ7AnQ/edit?usp=sharing
+- SQL - https://docs.google.com/document/d/1fZjv83DaSaimwN2q8xil6jxDwiWIeYHqz1GKgRgxpQQ/edit?usp=sharing
   
 SOCIAL
 
@@ -51,7 +52,7 @@ SOCIAL
 
 LANGUAGES
 
-- Polish - Native
-- English - Fluent
-- Spanish - Elementary
+- 🇵🇱Polish - Native
+- 🇬🇧English - Fluent
+- 🇪🇸Spanish - Elementary
 
