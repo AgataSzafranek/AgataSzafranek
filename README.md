@@ -37,11 +37,11 @@ SOFT SKILLS
 
 PROJECTS
 
-- Test Cases - https://docs.google.com/spreadsheets/d/17HuADjw36U1ICTBMWDfxVv165mc_FXMnMt0lwNPjtcM/edit?usp=sharing
-- Bug Report - https://docs.google.com/spreadsheets/d/1V-j4m7qnDQPoXOQUMJPWNt5E0gfwhbChv986K_DqNqI/edit?usp=sharing
-- Test Report - https://docs.google.com/spreadsheets/d/1MX4lhIQYoEQBU28HplEeVPpBvlNkJuf0ayz3C1pYLn0/edit?usp=sharing
-- Exploratory testing & bug report - https://docs.google.com/spreadsheets/d/17oFdvnihQzpErrf5bHvCi4vVh-WnUsM1zBG2FBJ7AnQ/edit?usp=sharing
-- SQL - https://docs.google.com/document/d/1fZjv83DaSaimwN2q8xil6jxDwiWIeYHqz1GKgRgxpQQ/edit?usp=sharing
+- [Test Cases](https://docs.google.com/spreadsheets/d/17HuADjw36U1ICTBMWDfxVv165mc_FXMnMt0lwNPjtcM/edit?usp=sharing)
+- [Bug Report](https://docs.google.com/spreadsheets/d/1V-j4m7qnDQPoXOQUMJPWNt5E0gfwhbChv986K_DqNqI/edit?usp=sharing)
+- [Test Report](https://docs.google.com/spreadsheets/d/1MX4lhIQYoEQBU28HplEeVPpBvlNkJuf0ayz3C1pYLn0/edit?usp=sharing)
+- [Exploratory testing & bug report](https://docs.google.com/spreadsheets/d/17oFdvnihQzpErrf5bHvCi4vVh-WnUsM1zBG2FBJ7AnQ/edit?usp=sharing)
+- [SQL](https://docs.google.com/document/d/1fZjv83DaSaimwN2q8xil6jxDwiWIeYHqz1GKgRgxpQQ/edit?usp=sharing)
   
 SOCIAL
 
