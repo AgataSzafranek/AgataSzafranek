@@ -8,21 +8,21 @@ that this is the right path for me. I have acquired a diverse set of skills that
 Notably, I have acquired a keen attention to detail, particularly in the exploration of new software and understanding its functionality. 
 Additionally, I have actively participated in the Dare IT challenge and have found immense enjoyment in tackling each challenge presented to me.
 
-[![LINKDIN](https://www.linkedin.com/in/agata-szafranek-b5a347b5/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agata-szafranek-b5a347b5/)
 
 COURSES / CERTIFICATES
 
-- Dare IT - Challenge [![DareIT](https://www.dareit.io)
-- UDEMY - ISTQB - [![Udemy] (https://www.udemy.com/certificate/UC-8a96932b-16fc-4cc9-98f3-807084c0d227/)
+- Dare IT - Challenge
+- UDEMY - ISTQB - [![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/certificate/UC-8a96932b-16fc-4cc9-98f3-807084c0d227/)
 - SQL w 120 minut - kursysql.pl
-- The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert - [![Udemy] (https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert) (in progress)
+- The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert - [![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert) IN PROGRESS
 - ISTQB FL - TBC
 
 TECH TOOLS
 
 - Slack
 - GitHub
-- SQL - Xampp [![Xampp]
+- SQL - Xampp 
 - DevTools
 
 SOFT SKILLS
