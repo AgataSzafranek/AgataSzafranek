@@ -8,14 +8,14 @@ that this is the right path for me. I have acquired a diverse set of skills that
 Notably, I have acquired a keen attention to detail, particularly in the exploration of new software and understanding its functionality. 
 Additionally, I have actively participated in the Dare IT challenge and have found immense enjoyment in tackling each challenge presented to me.
 
-[![https://www.linkedin.com/in/agata-szafranek-b5a347b5/] 
+[![LINKDIN](https://www.linkedin.com/in/agata-szafranek-b5a347b5/)
 
 COURSES / CERTIFICATES
 
-- Dare IT - Challenge [![DareIT]
-- UDEMY - ISTQB - [![https://www.udemy.com/certificate/UC-8a96932b-16fc-4cc9-98f3-807084c0d227/] 
+- Dare IT - Challenge [![DareIT](https://www.dareit.io)
+- UDEMY - ISTQB - [![Udemy] (https://www.udemy.com/certificate/UC-8a96932b-16fc-4cc9-98f3-807084c0d227/)
 - SQL w 120 minut - kursysql.pl
-- The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert - [![[Udemy](https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert)] / (in progress)
+- The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert - [![Udemy] (https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert) (in progress)
 - ISTQB FL - TBC
 
 TECH TOOLS
