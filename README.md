@@ -45,7 +45,7 @@ SOFT SKILLS
 
 PROJECTS
 
-[Futbol kolektyw]https://scouts.futbolkolektyw.pl/en/login?redirected=true
+[Futbol kolektyw](https://scouts.futbolkolektyw.pl/en/login?redirected=true)
 - [Test Cases](https://docs.google.com/spreadsheets/d/17HuADjw36U1ICTBMWDfxVv165mc_FXMnMt0lwNPjtcM/edit?usp=sharing)
 - [Bug Report](https://docs.google.com/spreadsheets/d/1V-j4m7qnDQPoXOQUMJPWNt5E0gfwhbChv986K_DqNqI/edit?usp=sharing)
 - [Test Report](https://docs.google.com/spreadsheets/d/1MX4lhIQYoEQBU28HplEeVPpBvlNkJuf0ayz3C1pYLn0/edit?usp=sharing)
