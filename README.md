@@ -17,8 +17,8 @@ COURSES / CERTIFICATES
 - SQL w 120 minut - kursysql.pl
 - The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert - [![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert) IN PROGRESS
 - ISTQB FL - TBC
-- 100 days of Code: The complete Python Pro Bootcamp for 2023 - IN PROGRESS
-
+- 100 days of Code: The complete Python Pro Bootcamp for 2023 - [![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/course/100-days-of-code/) IN PROGRESS
+  
 TOOLS
 
 - Slack
