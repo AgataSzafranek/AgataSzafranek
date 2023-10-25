@@ -1,4 +1,4 @@
-PORTFOLIO - Agata Katarzyna Szafranek
+PORTFOLIO - Agata Szafranek
 
 ABOUT ME
 
@@ -12,19 +12,26 @@ Additionally, I have actively participated in the Dare IT challenge and have fou
 
 COURSES / CERTIFICATES
 
-- Dare IT - Challenge 
+- Dare IT - Zostań Testerem Manualnym
 - UDEMY - ISTQB - [![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/certificate/UC-8a96932b-16fc-4cc9-98f3-807084c0d227/)
 - SQL w 120 minut - kursysql.pl
 - The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert - [![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert) IN PROGRESS
 - ISTQB FL - TBC
 - 100 days of Code: The complete Python Pro Bootcamp for 2023 - IN PROGRESS
 
-TECH TOOLS
+TOOLS
 
 - Slack
 - GitHub [Challenge](https://github.com/AgataSzafranek/challenge_portfolio_agata)
-- SQL - Xampp 
+- Xampp 
 - DevTools
+
+TECH SKILLS
+
+- SQL
+- Creating test cases
+- Reporting bugs
+- Software testing
 
 SOFT SKILLS
 
@@ -38,6 +45,7 @@ SOFT SKILLS
 
 PROJECTS
 
+[Futbol kolektyw]https://scouts.futbolkolektyw.pl/en/login?redirected=true
 - [Test Cases](https://docs.google.com/spreadsheets/d/17HuADjw36U1ICTBMWDfxVv165mc_FXMnMt0lwNPjtcM/edit?usp=sharing)
 - [Bug Report](https://docs.google.com/spreadsheets/d/1V-j4m7qnDQPoXOQUMJPWNt5E0gfwhbChv986K_DqNqI/edit?usp=sharing)
 - [Test Report](https://docs.google.com/spreadsheets/d/1MX4lhIQYoEQBU28HplEeVPpBvlNkJuf0ayz3C1pYLn0/edit?usp=sharing)
