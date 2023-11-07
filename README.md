@@ -1,12 +1,8 @@
-PORTFOLIO - Agata Szafranek
-
-ABOUT ME
-
 I have recently embarked on a personal journey to pursue a career as a software tester, a goal that has been on my mind for quite some time. 
 Throughout my professional experience, I have utilized various platforms to assess the suitability of a career as a software tester, and these experiences have only reinforced my belief 
 that this is the right path for me. I have acquired a diverse set of skills that are highly applicable to the role.
 Notably, I have acquired a keen attention to detail, particularly in the exploration of new software and understanding its functionality. 
-Additionally, I have actively participated in the Dare IT challenge and have found immense enjoyment in tackling each challenge presented to me.
+Additionally, I have actively participated in the Dare IT Manual Tester challenge and have found immense enjoyment in tackling each challenge presented to me.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agata-szafranek-b5a347b5/)
 
