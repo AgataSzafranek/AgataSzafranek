@@ -7,7 +7,7 @@ Overall, my journey in pursuing a career as a software tester has been driven by
 
 #### COURSES / CERTIFICATES
 
-- Dare IT - Zostań Testerem Manualnym  👉 [Project](https://github.com/AgataSzafranek/challenge_portfolio_agata)   [ 🎓 ](https://drive.google.com/drive/folders/1ov-3VPynbS82KhB7_sd7iUFlu9bMdRIt](https://drive.google.com/file/d/1ySqAfdXIczDq_dbR7n8UEZhw9praQdtf/view?usp=sharing)
+- Dare IT - Zostań Testerem Manualnym  👉 [Project](https://github.com/AgataSzafranek/challenge_portfolio_agata)   [ 🎓 ](https://drive.google.com/drive/folders/1ov-3VPynbS82KhB7_sd7iUFlu9bMdRIt)
 - Dare IT - Testy Automatyczne + Python  👉 [Project](https://github.com/AgataSzafranek/AT_challenge/blob/main/README.md)   [ 🎓 ]()
 - UDEMY - ISTQB - [![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/certificate/UC-8a96932b-16fc-4cc9-98f3-807084c0d227/)
 - SQL w 120 minut - kursysql.pl
