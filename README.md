@@ -18,10 +18,11 @@ Overall, my journey in pursuing a career as a software tester has been driven by
 #### TOOLS
 
 - Slack
-- mySQL
+- mySQL WORKBENCH
 - GitHub 
 - Xampp 
 - DevTools
+- Python
 - PyCharm
 - Robot Framework
 
