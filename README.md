@@ -7,12 +7,12 @@ Overall, my journey in pursuing a career as a software tester has been driven by
 
 #### COURSES / CERTIFICATES
 
+- ISTQB FL [ 🎓 ]
 - Dare IT - Zostań Testerem Manualnym  👉 [Project](https://github.com/AgataSzafranek/challenge_portfolio_agata)   [ 🎓 ](https://drive.google.com/file/d/1cO1yo9qns2OPjlCR87LDT9gWubZwlUE0/view)
 - Dare IT - Testy Automatyczne + Python  👉 [Project](https://github.com/AgataSzafranek/AT_challenge/blob/main/README.md)   [ 🎓 ](https://drive.google.com/file/d/1OHMbDAwfWdjzfNgrsarVtQUx69I6HOMN/view)
 - UDEMY - ISTQB - [![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/certificate/UC-8a96932b-16fc-4cc9-98f3-807084c0d227/)
 - SQL w 120 minut - kursysql.pl
 - The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert - [![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/certificate/UC-2d5d944f-3df9-4019-98b8-311d4417cdc6/) 
-- ISTQB FL - TBC
 - 100 days of Code: The complete Python Pro Bootcamp for 2023 - [![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/course/100-days-of-code/) IN PROGRESS
   
 #### TOOLS
